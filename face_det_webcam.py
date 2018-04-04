@@ -7,7 +7,7 @@ import face_recognition
 import cv2
 import time
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(1)     
 cap.set(3,640) #设置分辨率  
 cap.set(4,480)  
 
